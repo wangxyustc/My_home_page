@@ -1,0 +1,25 @@
+@font-face {
+    font-family: 'plantc';
+    src: url('./plantc.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+  }
+
+  @font-face {
+    font-family: 'Source Han Serif';
+    src: url('./SourceHanSerifCN-SemiBold.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+  }
+  @font-face {
+    font-family: 'ge te';
+    src: url('./Gete.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+  }
+  @font-face {
+    font-family: 'OCR';
+    src: url('./OCRAExtended.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+  }

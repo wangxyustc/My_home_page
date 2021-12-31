@@ -1,0 +1,30 @@
+{
+  "id": "2524547",
+  "name": "网站",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "3262684",
+      "name": "化学 实验",
+      "font_class": "huaxueshiyan",
+      "unicode": "e60b",
+      "unicode_decimal": 58891
+    },
+    {
+      "icon_id": "9617132",
+      "name": "2_8计算机软件",
+      "font_class": "_jisuanjiruanjian",
+      "unicode": "e613",
+      "unicode_decimal": 58899
+    },
+    {
+      "icon_id": "11909743",
+      "name": "星标、喜欢、收藏、爱星",
+      "font_class": "xingbiao-",
+      "unicode": "e612",
+      "unicode_decimal": 58898
+    }
+  ]
+}
